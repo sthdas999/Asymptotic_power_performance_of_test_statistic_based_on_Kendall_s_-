@@ -1,0 +1,69 @@
+\begin{thebibliography}{100}
+
+\bibitem[Andrews (1995)]{Andrews1995}
+Andrews, D. W. (1995). Nonparametric kernel estimation for semiparametric models. Econometric Theory, 11(3), 560-586..
+%%
+\bibitem[Bergsma (2006)]{Bergsma2006}
+Bergsma, W. P. (2006). A new correlation coefficient, its orthogonal decomposition and associated tests of independence. \textit{https://doi.org/10.48550/arXiv.math/0604627}.
+%%
+\bibitem[Bergsma et al.(2014)]{Bergsma2014}
+Bergsma, W. and Dassios, A. (2014). A consistent test of independence based on a sign covariance related to Kendall's tau. Bernoulli, 20, 1006-1028.
+%%
+\bibitem[Le Cam (1960)]{LeCam1960}
+Cam Le, L. (1960). Locally asymptotically normal families of distributions. University of California Publications in Statistics, 3, 37-98.
+%%
+\bibitem[Cuzick (1992)]{Cuzick1992}
+Cuzick, J. (1992). Semiparametric additive regression. Journal of the Royal Statistical Society: Series B (Methodological), 54(3), 831-843.
+%%
+\bibitem[Das et al. (2021)]{Das2021}
+Das, S. \& Maiti, S. I. (2021). Uniform spacings—a Bird’s---Eye View. {\it Statistics and Applications}, 19(2), 217-230.
+%%
+\bibitem[Das et al. (2022)]{Das2022}
+Das, S. \& Maiti, S. I. (2022). On the Test of Association Between Nonparametric Covariate and Error in Semiparametric Regression Model. {\it Journal of the Indian Society for Probability and Statistics}, 23(2), 541-564.
+%%
+\bibitem[Einmahl et al.(2008a)] {Einmahl2008a}
+Einmahl, J. H. and Van Keilegom, I. (2008). Tests for independence in nonparametric regression. Statistica Sinica, 18, 601-615.
+%%
+\bibitem[Einmahl et al.(2008b)] {Einmahl2008b}
+Einmahl, J. H. and Van Keilegom, I. (2008). Specification tests in nonparametric regression. Journal of Econometrics, 143(1), 88-102.
+%%
+\bibitem[Goldfeld (1965)] {Goldfeld1965}
+Goldfeld, S. M. and Quandt, R. E. (1965). Some tests for homoscedasticity. Journal of the American statistical Association, 60(310), 539-547.
+%%
+\bibitem[Hamilton (1997)] {Hamilton1997}
+Hamilton, S. A., & Truong, Y. K. (1997). Local linear estimation in partly linear models. Journal of Multivariate Analysis, 60(1), 1-19.
+%%
+\bibitem[Le Cam (1960)]{LeCam1960}
+Cam Le, L. (1960). Locally asymptotically normal families of distributions. University of California Publications in Statistics, 3, 37-98.
+%%
+\bibitem[Gregory (1977)]{Gregory1977}
+Gregory, G. G. (1977). Large sample theory for U statistics and test of fit. Annals of Statistics, 5(1), 110-123.
+%%
+\bibitem[Hajek et al.(1999)]{Hajek1999}
+Hajek, J., Sidak, Z., and Sen, P. K. (1999). Theory of Rank Tests. Academic Press.
+%%
+\bibitem[Kendall (1938)]{Kendall1938}
+Kendall, M. G. (1938). A new measure of rank correlation. Biometrika, 30(1/2), 81-93.
+%%
+\bibitem[Liu (1997)]{Liu1997}
+Liu, Z., Liu, Z., Lu, X., \& Lu, X. (1997). Root-n-consistent semiparametric estimation of partially linear models based on k-nn method. Econometric Reviews, 16(4), 411-420.
+%%
+\bibitem[Nadaraya (1964)]{Nadaraya1964}
+Nadaraya, E. A. (1964). On non-parametric estimates of density functions and regression curves. Statistica Sinica, 15, 635-644.
+%%
+\bibitem[Li (1964)]{Li1964}
+Li, Q. (2000). Efficient estimation of additive partially linear models. International Economic Review, 41(4), 1073-1092.
+%%
+\bibitem[Robinson (1988)]{Robinson1988}
+Robinson, P. M. (1988). Root-N-consistent semiparametric regression. Econometrica, 56(4), 931-954.
+%%
+\bibitem[Spearman (1904)]{Spearman1904}
+Spearman, C. (1904). The proof and measurement of association between two things. The American Journal of Psychology, 15(1), 72-101.
+%%
+\bibitem[Szekely et al. (2007)]{Szekely2007}
+Székely, G. J., Rizzo, M. L., and Bakirov, N. K. (2007). Measuring and testing dependence by correlation of distances. The Annals of Statistics, 35(6), 2769-2794.
+%%
+\bibitem[Wang et al. (2011)]{Wang2011}
+Wang, L., Brown, L. D., & Cai, T. T. (2011). A difference based approach to the semiparametric partial linear model.
+
+\end{thebibliography}
